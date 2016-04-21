@@ -9,7 +9,7 @@
   AUTHOR EMAIL: jcyprich@live.com
 </p>
  
-<p>Lists the last login date of users in XMPie uStore groups.</p>
+<p>Lists the last login date of users in XMPie uStore groups. This is a SQL script that was tested on MSSQL 2012.</p>
 
 <p>You can select users by their UserGroupID (Option 1) or company name (Option 2). Each option
  has variables that need to be set. Depending on which option you select, uncomment the
